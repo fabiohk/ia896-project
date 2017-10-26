@@ -35,7 +35,7 @@ https://github.com/tzutalin/ImageNet_Utils
 https://github.com/hardikvasa/google-images-download  
 
 ### Google Cloud
-https://cloud.google.com/ :new:  
+https://cloud.google.com/  
 http://cs231n.github.io/gce-tutorial-gpus/
 
 ### Amazon Web Services 
