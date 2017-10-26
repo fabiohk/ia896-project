@@ -21,6 +21,7 @@ https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-t
 https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html :new:  
 https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html :new:  
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html :new:  
+https://medium.com/towards-data-science/transfer-learning-using-keras-d804b2e04ef8 :new:  
 
 ### Image Classifier
 https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html  
