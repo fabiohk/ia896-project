@@ -17,6 +17,7 @@ https://joshua19881228.github.io/2016-09-06-Reading-note/
 http://minyounghuh.com/papers/analysis/  
 https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/  
 http://cs231n.github.io/transfer-learning/  
+https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/ :new:  
 
 ### Image Classifier
 https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html  
