@@ -35,6 +35,9 @@ https://www.tensorflow.org/tutorials/image_recognition
 https://www.tensorflow.org/tutorials/image_retraining  
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/ :new:  
 
+### TFRecord
+https://kwotsin.github.io/tech/2017/01/29/tfrecords.html :new:  
+
 ### Image Downloader
 https://github.com/tzutalin/ImageNet_Utils  
 https://github.com/hardikvasa/google-images-download  
