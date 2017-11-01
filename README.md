@@ -38,6 +38,16 @@ https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/ :new:
 ### TFRecord
 https://kwotsin.github.io/tech/2017/01/29/tfrecords.html :new:  
 
+### TensorFlow Mobile
+https://www.tensorflow.org/mobile/ :new:  
+http://nilhcem.com/android/custom-tensorflow-classifier :new:  
+https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library :new:  
+https://deeplearning4j.org/android :new:  
+https://jalammar.github.io/Supercharging-android-apps-using-tensorflow/ :new:  
+
+### OpenCV
+https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV :new:  
+
 ### Image Downloader
 https://github.com/tzutalin/ImageNet_Utils  
 https://github.com/hardikvasa/google-images-download  
