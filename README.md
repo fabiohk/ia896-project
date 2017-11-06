@@ -45,6 +45,9 @@ https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library 
 https://deeplearning4j.org/android :new:  
 https://jalammar.github.io/Supercharging-android-apps-using-tensorflow/ :new:  
 
+### Freezing a Model (TensorFlow)
+https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc :new:  
+
 ### OpenCV
 https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV :new:  
 
